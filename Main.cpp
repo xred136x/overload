@@ -52,8 +52,8 @@ int main() {
 	cout << max_val(5.5f, 5.9f) << "\n";
 	cout << max_val(5, 7, 4) << '\n';*/
 	// abs 
-	/*cout << abs(-5) << '\n';
-	cout << abs(7.4) << '\n';*/
-
+	cout << abs(-5) << '\n';
+	cout << abs(7.4) << '\n';
+	cout << abs(-1.1f) << '\n';
 	return 0;
 }
